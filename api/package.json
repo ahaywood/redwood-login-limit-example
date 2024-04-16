@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@redwoodjs/api": "7.4.1",
-    "@redwoodjs/graphql-server": "7.4.1"
+    "@redwoodjs/auth-dbauth-api": "7.4.1",
+    "@redwoodjs/graphql-server": "7.4.1",
+    "date-fns": "^3.6.0"
   }
 }
